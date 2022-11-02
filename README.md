@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the penultimate project of school 42 in order to validate my course, And various Web-development projects to start my free-lancer career.  
-🌱 I’m currently improving my Backend Skills in order to become a professional full stack developer.
+🔭 I’m currently working on the penultimate project of school 42 in order to validate my course, And various Web-development projects to start my free-lancer career. 
+  
+🌱 Currently improving my Backend Skills in order to become a professional full stack developer.
 
 👾 Don't hesitate to reach me on Malt or by email if you are interrested in working together.
    
