@@ -1,4 +1,4 @@
-### Hi, I'm Thibault 👋
+### Hello there, I'm Thibault 👋
 
 Engineer, ex-42. I ship software mostly solo, orchestrating AI agents to do the heavy lifting.
 
